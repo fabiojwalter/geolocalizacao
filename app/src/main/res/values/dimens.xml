@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="page_margin">2dp</dimen>
+    <dimen name="textView_textSize">30sp</dimen>
+    <dimen name="textView_height">45sp</dimen>
+</resources>

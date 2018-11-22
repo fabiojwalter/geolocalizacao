@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">geolocalizacao</string>
+    <string name="continente">Continente</string>
+    <string name="populacao">População</string>
+    <string name="coordenadas">Lat/Long</string>
+    <string name="geoid">GeoID</string>
+    <string name="nenhum_registro">Nenhum registro localizado</string>
+    <string name="carregando">Carregando</string>
+    <string name="dialog_cidade_titulo">Cidade</string>
+</resources>
